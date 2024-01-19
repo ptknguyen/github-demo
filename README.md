@@ -1,2 +1,2 @@
-# github-demo
-demo repo
+# demo meow repo
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
